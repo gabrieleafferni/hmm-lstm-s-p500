@@ -1,0 +1,4 @@
+Window,N Features,Non-stationary,Non-normal,Extreme skew (|s|>2),Heavy tails (k>5),Total outliers,Max outlier %
+20d,11,1,11,2,5,583,2.2257551669316373
+60d,11,1,11,2,5,603,2.3317435082140965
+120d,11,2,11,2,5,558,3.047164811870694

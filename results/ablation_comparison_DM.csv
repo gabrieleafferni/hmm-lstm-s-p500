@@ -1,0 +1,4 @@
+window,n_common_dates,pinball_HMM,pinball_ablation,delta_pinball_HMM_minus_ablation,PICP90_HMM,PICP90_ablation,width90_HMM,width90_ablation,DM_stat,HLN_stat,p_value_DM,reject_H0,better_model
+20d,913,0.168067,0.163639,0.004428,0.8401,0.8554,1.868451,1.926862,2.6516,2.6502,0.0082,True,LSTM-only
+60d,923,0.176791,0.178525,-0.001734,0.8039,0.8093,1.759077,1.93321,-0.3484,-0.3482,0.7278,False,n.s.
+120d,933,0.192272,0.206924,-0.014652,0.5949,0.6924,1.335469,1.923715,-2.0201,-2.019,0.0438,True,HMM-LSTM
