@@ -1,5 +1,6 @@
 # Hybrid HMM-LSTM model for multi-horizon S&P 500 return forecasting
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrieleafferni/hmm-lstm-s-p500/blob/main/hmm_lstm_pipeline.ipynb)
+
 Probabilistic (quantile) forecasting of S&P 500 returns over 20-, 60- and 120-trading-day
 horizons, combining a Hidden Markov Model that identifies market regimes with an LSTM that
 predicts the full conditional distribution of future returns.
